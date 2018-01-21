@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fafc5b3d-7df7-49b7-a62d-5652437836b0" name="Default" comment="Lab2 just need checkbox, text area, and submit button.">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.idea/L2-Advanced.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/css/normalize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/TOC.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/css.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/extend.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/faq.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/html.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/js.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/misc.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/usage.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/humans.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/img/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/js/plugins.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/js/vendor/jquery-3.2.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/js/vendor/modernizr-3.5.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/regFormStyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/site.webmanifest" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/tile-wide.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/tile.png" />
-    </list>
+    <list default="true" id="fafc5b3d-7df7-49b7-a62d-5652437836b0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -165,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516574823752</updated>
-      <workItem from="1516574825456" duration="3275000" />
+      <workItem from="1516574825456" duration="3286000" />
     </task>
     <task id="LOCAL-00001" summary="Lab2 just need checkbox, text area, and submit button.">
       <created>1516578311222</created>
@@ -181,11 +146,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516578398754</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab2 just need checkbox, text area, and submit button.">
+      <created>1516578448829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1516578448829</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3275000" />
+    <option name="totallyTimeSpent" value="3286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="33" width="1517" height="970" extended-state="0" />
