@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fafc5b3d-7df7-49b7-a62d-5652437836b0" name="Default" comment="Lab2 just need checkbox, text area, and submit button.">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.gitattributes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.htaccess" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.idea/L2-Advanced.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/css/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/TOC.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/css.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/extend.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/faq.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/html.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/js.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/misc.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/doc/usage.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/humans.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/img/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/js/plugins.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/js/vendor/jquery-3.2.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/js/vendor/modernizr-3.5.0.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/regFormStyle.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/site.webmanifest" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/tile-wide.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../L2-Advanced/tile.png" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="registraionForm.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../L2-Advanced/registraionForm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regFormStyle.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../L2-Advanced/regFormStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../L2-Advanced" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../L2-Advanced/regFormStyle.css" />
+        <option value="$PROJECT_DIR$/../L2-Advanced/registraionForm.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="y" value="33" />
+    <option name="width" value="1517" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="L2-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="L2-Advanced" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fafc5b3d-7df7-49b7-a62d-5652437836b0" name="Default" comment="" />
+      <created>1516574823752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516574823752</updated>
+      <workItem from="1516574825456" duration="3275000" />
+    </task>
+    <task id="LOCAL-00001" summary="Lab2 just need checkbox, text area, and submit button.">
+      <created>1516578311222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516578311222</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lab2 just need checkbox, text area, and submit button.">
+      <created>1516578398754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516578398754</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3275000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="33" width="1517" height="970" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24983521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab2 just need checkbox, text area, and submit button." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2 just need checkbox, text area, and submit button." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../L2-Advanced/registraionForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../L2-Advanced/regFormStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
