@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fafc5b3d-7df7-49b7-a62d-5652437836b0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../L2-Advanced/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../L2-Advanced/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="fafc5b3d-7df7-49b7-a62d-5652437836b0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -133,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516574823752</updated>
-      <workItem from="1516574825456" duration="3963000" />
+      <workItem from="1516574825456" duration="3973000" />
     </task>
     <task id="LOCAL-00001" summary="Lab2 just need checkbox, text area, and submit button.">
       <created>1516578311222</created>
@@ -205,11 +203,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516579197342</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Lab2 just need checkbox, text area, and submit button.">
+      <created>1516579228526</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1516579228526</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3963000" />
+    <option name="totallyTimeSpent" value="3973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="33" width="1517" height="970" extended-state="0" />
