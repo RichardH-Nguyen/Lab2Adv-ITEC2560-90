@@ -139,7 +139,7 @@
       <workItem from="1516660013122" duration="4842000" />
       <workItem from="1517109106230" duration="43000" />
       <workItem from="1517109257533" duration="587000" />
-      <workItem from="1517114306148" duration="203000" />
+      <workItem from="1517114306148" duration="282000" />
     </task>
     <task id="LOCAL-00001" summary="Lab2 just need checkbox, text area, and submit button.">
       <created>1516578311222</created>
@@ -253,11 +253,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517114504903</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Lab2 just need checkbox, text area, and submit button.">
+      <created>1517114512247</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1517114512247</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9717000" />
+    <option name="totallyTimeSpent" value="9796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="32" width="1517" height="970" extended-state="0" />
