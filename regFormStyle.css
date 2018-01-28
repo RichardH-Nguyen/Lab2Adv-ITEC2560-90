@@ -1,4 +1,41 @@
-label{
-    align-content: left;
+div{
+    border-bottom: 1px solid #555555;
+    margin: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+}
 
+input{
+    align-content: right;
+}
+p{
+    color: blueviolet;
+}
+
+.submit{
+    text-align: right;
+
+}
+
+.btnSubmit{
+    background-color: #b3d4fc;
+    border-bottom: 2px solid #89a2c1;
+    border-right: 2px solid #89a2c1;
+    padding: 10px 24px;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+
+.btnSubmit:hover{
+    background-color: #5299f2;
+    border-top: 2px solid #89a2c1;
+    border-left: 2px solid #89a2c1;
+
+}
+body{
+    background-color: #89a2c1;
+
+    background-image: -moz-linear-gradient(#baffbc, #778447);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#baffbc), to(#778447));
+    height: 1000px;
 }

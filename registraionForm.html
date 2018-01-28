@@ -3,38 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <title>Registration Form</title>
-    <link rel="stylesheet" href="regFormStyle.css">
+    <link rel="stylesheet" type="text/css" href="regFormStyle.css">
 </head>
 <br>
 
+<div>
+    <p><label for="username">Username:</label>
+    <input id="username" name="username" maxlength="70" required="required"/><br />
+    </p>
+</div>
 
-<label for="username">Username:</label>
-<input id="username" name="username" maxlength="70" required="required"/><br />
+<div>
+    <p><label for="password">Password:</label>
+    <input id="password" type="password" name="password" maxlength="30" required="required"/>
+    </p>
+</div>
 
-<label for="password">Password:</label>
-<input id="password" type="password" name="password" maxlength="30" required="required"/>
-
+<div>
 <p>
     Email:
     <input type="email" name="email" required="required" />
 </p>
+</div>
 
-<p>Please select your shirt size:</p>
-<select id="" name="shirtSize">
-    <option value="small">Small</option>
-    <option value="medium">Medium</option>
-    <option value="large">Large</option>
-</select><br/>
+<div>
+    <p>Please select your shirt size:</p>
+    <select id="" name="shirtSize" required="required">
+        <option value="small">Small</option>
+        <option value="medium">Medium</option>
+        <option value="large">Large</option>
+    </select>
+</div>
 
-<label for="dob">Enter your birth date:</label>
-<input id="dob" type="date" name="dob" /><br/>
+<br/>
 
-Receive email notifications?
-<input id="emailYes" type="radio" name="emailNotification" value="y">
-<label for="emailYes">Yes</label>
-<input id="emailNo" type="radio" name="emailNotification" value="n">
-<label for="emailNo">No</label>
+<div>
+    <p><label for="dob">Enter your birth date:</label></p>
+    <input id="dob" type="date" name="dob" required="required" /><br/>
+</div>
 
+<div>
+    <p>Receive email notifications?</p>
+    <input id="emailYes" type="radio" name="emailNotification" value="y">
+    <label for="emailYes">Yes</label>
+    <input id="emailNo" type="radio" name="emailNotification" value="n">
+    <label for="emailNo">No</label>
+</div>
 
+<div>
+    <p>Select which conference you will attend (select all that apply):</p>
+    <br/>
+    <input type="checkbox" name="confTime" value="morning" required="required"/> Morning
+    <input type="checkbox" name="confTime" value="afternoon" required="required"/> Afternoon
+
+</div>
+
+<div>
+<p>Any special requests?</p>
+<textarea name="requests" >Please, enter requests here...</textarea>
+</div>
+
+<br/>
+
+<div class="submit">
+<input class="btnSubmit" type="submit" name="submit" value="Submit Form">
+</div>
 </body>
 </html>
